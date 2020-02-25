@@ -18,3 +18,5 @@ You can force battery restrictions in an app's settings > battery screen.  Apps 
 To view or 'reset' the adaptive battery process, enable developer options and scroll down to Standby Apps.  Here you can see which state bucket each app is in.  If you wanted to 'reset' adaptive battery, I figure you could set all apps to a rare state, reboot your phone, and it will figure out which bucket apps need to be in again.
 
 I also experiment with just going ahead and restricting all apps I know are not something I care about running all of the time when my eyes are not on the app: browsers, games, shopping apps, streaming video apps, etc.
+
+What I wish they'd change: move this app state junk out of the Developer Options and into the Adaptive battery Screen.  Or have a little summary graphic to show how many apps are in each state.  The reason I think this is because the Adaptive Battery screen just looks useless.  One toggle and a pretty animation but I have no idea that it even does anything.
